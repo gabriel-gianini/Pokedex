@@ -1,0 +1,8 @@
+C:\Users\gabri\Desktop\curso unity udemy\C#\pokedex\bin\Debug\pokedex.exe.config
+C:\Users\gabri\Desktop\curso unity udemy\C#\pokedex\bin\Debug\pokedex.exe
+C:\Users\gabri\Desktop\curso unity udemy\C#\pokedex\bin\Debug\pokedex.pdb
+C:\Users\gabri\Desktop\curso unity udemy\C#\pokedex\obj\Debug\pokedex.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\curso unity udemy\C#\pokedex\obj\Debug\pokedex.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\curso unity udemy\C#\pokedex\obj\Debug\pokedex.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\curso unity udemy\C#\pokedex\obj\Debug\pokedex.exe
+C:\Users\gabri\Desktop\curso unity udemy\C#\pokedex\obj\Debug\pokedex.pdb
